@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mekan-developer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,css,tailwind,mongodb,postgres,html,atom,bootstrap,cpp,git,github,jquery,py,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,css,tailwind,github,ai,laravel,linkedin,mysql,php,py,vscode,vue,xd&theme=light)](https://skillicons.dev)
 
 
 
