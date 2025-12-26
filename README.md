@@ -28,30 +28,29 @@ I'm a passionate Full-Stack Developer with 4+ years of experience specializing i
 - Package Development (Laravel Spatie)
 - Database Optimization & Design
 
-## 📊 GitHub Stats
 
-<div align="center">
+## 📫 Get In Touch
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:mekan.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   
-![Mekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mekan-developer&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mekan-developer&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mekan-developer&theme=github-dark&hide_border=true)
-
-![Visitors](https://komarev.com/ghpvc/?username=Mekan-developer&color=blue&style=flat&label=PROFILE+VIEWS)
-
-</div>
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mekan.developer@gmail.com)
-
----
-
-<div align="center">
+  <!-- Telegram -->
+  <a href="https://t.me/MekanDev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
   
-⭐️ *"First, solve the problem. Then, write the code."* - John Johnson
-
-</div>
+  <!-- GitHub -->
+  <a href="https://github.com/Mekan-developer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <!-- LinkedIn (рекомендую создать) -->
+  <!--
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  -->
+</p>
