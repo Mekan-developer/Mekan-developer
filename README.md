@@ -45,7 +45,7 @@ My expertise bridges the gap between sophisticated **Backend logic (Laravel)**, 
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | `PHP`, `JavaScript`, `TypeScript`, `SQL`, `Bash`, `Russian (Native)`, `Turkmen (Native)` |
-| **Frameworks** | `Laravel 11`, `Lumen`, `Next.js 15`, `Vue.js`, `Express.js`, `Tailwind CSS` |
+| **Frameworks** | `Laravel 11`, `Next.js `, `Vue.js`, `Tailwind CSS` |
 | **Databases** | `MySQL`, `PostgreSQL`, `Redis`, `MongoDB` |
 | **DevOps** | `Docker`, `Nginx`, `Git`, `CI/CD`, `Ubuntu`, `Certbot`, `Cloudflare` |
 
