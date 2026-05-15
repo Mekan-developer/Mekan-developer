@@ -1,4 +1,4 @@
-# ⚡ Mekan Agamyradov | Middle + Full-Stack Engineer & DevOps
+# ⚡ Mekan Agamyradov | Middle + Full-Stack & DevOps
 
 <p align="left">
 <a href="https://github.com/Mekan-developer">
@@ -15,7 +15,7 @@ My expertise bridges the gap between sophisticated **Backend logic (Laravel)**, 
 
 ## 🚀 Specialized Expertise
 
-### 🏗️ Backend Architecture (PHP 8.2+ & Laravel 11)
+### 🏗️ Backend Architecture (PHP 8 + & Laravel 9 +)
 - **Core:** Advanced Eloquent ORM, Custom Artisan Command Automation, Service Pattern.
 - **Security:** JWT Auth, OAuth2, API Rate Limiting, Data Encryption.
 - **Optimization:** Redis Caching, Database Indexing, Query Optimization.
